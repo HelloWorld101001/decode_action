@@ -1,23 +1,3 @@
-Please input text here.
-0
-Chars
-Simplified Chinese
-
-Translate
-
-DeepL
-
-DeepLX
-
-Google
-
-Microsoft
-
-OpenAI SB
-
-TranSmart
-
-VolcEngine
 //Sun Sep 22 2024 07:52:13 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
